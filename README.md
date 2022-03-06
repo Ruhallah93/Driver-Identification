@@ -1,6 +1,6 @@
 # Discrete Wavelet Transform for Generative Adversarial Network to Identify Drivers Using Gyroscope and Accelerometer Sensors.
 
-[Paper]([https://ieeexplore.ieee.org/document/9716101])
+[Paper](https://ieeexplore.ieee.org/document/9716101)
 
 [Rouhollah Ahmadian](https://homes.cs.washington.edu/~royorel/)<sup>1</sup> ,
 [Mehdi Ghatee](https://aut.ac.ir/cv/2174/MEHDI-GHATEE?slc_lang=en&&cv=2174&mod=scv)<sup>1</sup>,

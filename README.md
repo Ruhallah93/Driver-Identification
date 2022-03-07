@@ -28,7 +28,7 @@ spectral, and temporal approaches.
 ## Pre-Requisits
 
 - To implement the algorithms, we used Scikit-learn version 0.22, Tensorflow version 1.13.2, and Keras version 2.3.0.
-- A model selection for hyperparameter tuning is needed to achieve the best accuracy.
+- A model selection for hyperparameters tuning is needed to achieve the best accuracy.
 
 ## Dataset
 

@@ -1,6 +1,6 @@
 # Discrete Wavelet Transform for Generative Adversarial Network to Identify Drivers Using Gyroscope and Accelerometer Sensors.
 
-[Paper](https://ieeexplore.ieee.org/document/9716101)
+### [Paper](https://ieeexplore.ieee.org/document/9716101)
 
 [Rouhollah Ahmadian](https://homes.cs.washington.edu/~royorel/)<sup>1</sup> ,
 [Mehdi Ghatee](https://aut.ac.ir/cv/2174/MEHDI-GHATEE?slc_lang=en&&cv=2174&mod=scv)<sup>1</sup>,
@@ -28,7 +28,7 @@ spectral, and temporal approaches.
 ## Pre-Requisits
 
 - To implement the algorithms, we used Scikit-learn version 0.22, Tensorflow version 1.13.2, and Keras version 2.3.0.
-- A model selection for hyperparameter tuning is needed to achieve the best accuracy.
+- A model selection for hyperparameters tuning is needed to achieve the best accuracy.
 
 ## Dataset
 

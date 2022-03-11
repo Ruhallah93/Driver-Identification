@@ -4,8 +4,8 @@
 
 [Rouhollah Ahmadian](https://homes.cs.washington.edu/~royorel/)<sup>1</sup> ,
 [Mehdi Ghatee](https://aut.ac.ir/cv/2174/MEHDI-GHATEE?slc_lang=en&&cv=2174&mod=scv)<sup>1</sup>,
-[Johan Wahlström](https://www.cs.ox.ac.uk/people/johan.wahlstrom/)<sup>2</sup><br>
-<sup>1</sup>Amirkabir University of Technology, <sup>2</sup>University of Oxford
+[Johan Wahlström](https://emps.exeter.ac.uk/computer-science/staff/cw840)<sup>2</sup><br>
+<sup>1</sup>Amirkabir University of Technology, <sup>2</sup>University of Exeter
 
 ## Abstract
 

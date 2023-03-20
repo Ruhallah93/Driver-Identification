@@ -39,17 +39,18 @@ In this project, to evaluate the methods, the driving data of this [dataset] has
 If you use this code for your research, please cite our paper.
 
 ```
-@ARTICLE{9716101,
-  author={Ahmadian, Rouhollah and Ghatee, Mehdi and Wahlström, Johan},
-  journal={IEEE Sensors Journal}, 
-  title={Discrete Wavelet Transform for Generative Adversarial Network to Identify Drivers Using Gyroscope and Accelerometer Sensors}, 
+@article{ahmadian2022discrete,
+  title={Discrete wavelet transform for generative adversarial network to identify drivers using gyroscope and accelerometer sensors},
+  author={Ahmadian, Rouhollah and Ghatee, Mehdi and Wahlstr{\"o}m, Johan},
+  journal={IEEE Sensors Journal},
+  volume={22},
+  number={7},
+  pages={6879--6886},
   year={2022},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/JSEN.2022.3152518}}
+  publisher={IEEE}
+}
 ```
 
 [dataset]: <https://github.com/mghatee/Overall-Driving-Behavior-Recognition-By-Smartphone>
 
-[https://doi.org/10.1109/JSEN.2022.3152518]: <https://ieeexplore.ieee.org/document/9716101>
+[https://doi.org/10.1109/JSEN.2022.3152518]: <https://ieeexplore.ieee.org/abstract/document/9716101>
